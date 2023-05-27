@@ -105,10 +105,13 @@ const styles = StyleSheet.create({
   },
   btnContent: {
     borderRadius: 0,
-    backgroundColor: colors.primary_5,
+    backgroundColor: colors.primary_10,
   },
   btn: {
     marginHorizontal: 8,
     borderRadius: 5,
+    marginVertical:8,
+    paddingVertical:3,
+    backgroundColor:colors.primary_10
   },
 });
